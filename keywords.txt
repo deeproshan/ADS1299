@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for ADS1299_DR
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADS1299_DR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+resetHardware	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+rdatac	KEYWORD2
+sdatac	KEYWORD2
+readRegister	KEYWORD2
+writeRegister	KEYWORD2
+updateData	KEYWORD2
+channelData	KEYWORD2
+statusData	KEYWORD2
