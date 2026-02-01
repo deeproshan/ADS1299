@@ -1,3 +1,4 @@
+
 #include "ADS1299_DR.h"
 
 ADS1299_DR::ADS1299_DR(int csPin, int drdyPin, int resetPin) {
@@ -120,4 +121,5 @@ bool ADS1299_DR::updateData() {
 
   digitalWrite(_csPin, HIGH);
   return true;
+
 }
